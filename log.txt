@@ -1,0 +1,46 @@
+All moves are written in the form of Row : Column
+File is replaced every time a new server run starts
+
+Game details
+Game ID : 1
+Player 1 ID : 1
+Player 2 ID : 2
+Move Number : 1 || Player ID : 2 || Move : 0 0
+Move Number : 2 || Player ID : 1 || Move : 0 1
+Move Number : 3 || Player ID : 2 || Move : 1 0
+Move Number : 4 || Player ID : 1 || Move : 2 2
+Move Number : 5 || Player ID : 2 || Move : 1 1
+Move Number : 6 || Player ID : 1 || Move : 1 2
+Move Number : 7 || Player ID : 2 || Move : 0 2
+Move Number : 8 || Player ID : 1 || Move : 2 1
+Move Number : 9 || Player ID : 2 || Move : 2 0
+Match ended in a win for Winner ID: 2
+Game lasted for 27.000000 seconds
+End of Game
+
+
+Game details
+Game ID : 2
+Player 1 ID : 1
+Player 2 ID : 22 ID player did not play the move on time
+
+Game lasted for 15.000000 seconds
+End of Game
+
+
+Game details
+Game ID : 3
+Player 1 ID : 3
+Player 2 ID : 4
+Move Number : 1 || Player ID : 4 || Move : 1 2
+Move Number : 2 || Player ID : 3 || Move : 0 1
+Move Number : 3 || Player ID : 4 || Move : 0 2
+Move Number : 4 || Player ID : 3 || Move : 1 1
+Move Number : 5 || Player ID : 4 || Move : 2 0
+Move Number : 6 || Player ID : 3 || Move : 1 0
+Move Number : 7 || Player ID : 4 || Move : 2 2
+Match ended in a win for Winner ID: 4
+Game lasted for 25.000000 seconds
+End of Game
+
+
